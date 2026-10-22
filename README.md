@@ -1,4 +1,4 @@
-# graylog-siem-log-monitoring-lab
+# Graylog SIEM Log Monitoring Lab
 **PRACTICAL SIEM LOG MONITORING LAB USING GRAYLOG AND NXLOG.**
 
 **Project overview**

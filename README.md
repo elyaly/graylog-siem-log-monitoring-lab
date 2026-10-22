@@ -26,3 +26,15 @@ I configured log collection and monitoring, then generated and investigated Wind
 This is an introductory SIEM laboratory project focused on collecting, forwarding, and monitoring Windows event logs. It demonstrates how Graylog can be used to review security-related events in a centralized interface.
 
 # Screenshots
+
+Windows security events in Graylog
+
+![Windows security events](screenshots/windows_security_events.png)
+
+User account creation (Event ID 4720)
+
+![User account created](screenshots/user_created.png)
+
+Failed authentication (Event ID 4625)
+
+![Failed authentication event](screenshots/failed_authentication.png)
